@@ -6,7 +6,7 @@
 [![Hugging Face Organization](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-spacejourney-FFD21E)](https://huggingface.co/spacejourney)
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-10B981)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Open-Access Acoustic ($\text{dB}$), Photic ($\text{lx}$), and Crowd-Density ($\rho$) Urban Benchmarks for Contemplative Human Mobility.**  
+> **Open-Access Acoustic (dB), Photic (lx), and Crowd-Density (pax/m²) Urban Benchmarks for Contemplative Human Mobility.**  
 > *Curated by [Space Journey](https://spacejourney.app/) & Cited via CERN Zenodo ([10.5281/zenodo.22756473](https://doi.org/10.5281/zenodo.22756473)).*
 
 ---
