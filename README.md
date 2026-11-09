@@ -20,10 +20,10 @@ Each city benchmark includes verified `.csv` and `.json` datasets with **ESA Cop
 | 🌐 **Global Benchmark (94 Sanctuaries)** | [data/global_sensory_benchmark_v3.csv](./data/global_sensory_benchmark_v3.csv) | [global-sensory-impact-benchmark](https://huggingface.co/datasets/spacejourney/global-sensory-impact-benchmark) | **94** | [SIS Standard](https://spacejourney.app/standards/sensory-impact-score/) |
 | 🇮🇹 **Rome, Italy** | [cities/01_rome/](./cities/01_rome/) | [rome-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/rome-sensory-impact-dataset) | **15** | [Rome Guide](https://spacejourney.app/ciudad/roma/) |
 | 🇫🇷 **Paris, France** | [cities/02_paris/](./cities/02_paris/) | [paris-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/paris-sensory-impact-dataset) | **15** | [Paris Guide](https://spacejourney.app/ciudad/paris/) |
-| 🇬🇧 **London, UK** | [cities/03_london/](./cities/03_london/) | [london-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/london-sensory-impact-dataset) | **15** | [London Guide](https://spacejourney.app/ciudad/londres/) |
+| 🇬🇧 **London, UK** | [cities/03_london/](./cities/03_london/) | [Space Journey HF Hub](https://huggingface.co/spacejourney) | **15** | [London Guide](https://spacejourney.app/ciudad/londres/) |
 | 🇲🇽 **Mexico City (CDMX)** | [cities/04_cdmx/](./cities/04_cdmx/) | [cdmx-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/cdmx-sensory-impact-dataset) | **15** | [CDMX Guide](https://spacejourney.app/ciudad/cdmx/) |
-| 🇺🇸 **New York City, USA** | [cities/05_new_york/](./cities/05_new_york/) | [new-york-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/new-york-sensory-impact-dataset) | **17** | [New York Guide](https://spacejourney.app/ciudad/nueva-york/) |
-| 🇺🇸 **Miami, USA** | [cities/06_miami/](./cities/06_miami/) | [miami-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/miami-sensory-impact-dataset) | **17** | [Miami Guide](https://spacejourney.app/ciudad/miami/) |
+| 🇺🇸 **New York City, USA** | [cities/05_new_york/](./cities/05_new_york/) | [Space Journey HF Hub](https://huggingface.co/spacejourney) | **17** | [New York Guide](https://spacejourney.app/ciudad/new-york/) |
+| 🇺🇸 **Miami, USA** | [cities/06_miami/](./cities/06_miami/) | [Space Journey HF Hub](https://huggingface.co/spacejourney) | **17** | [Miami Guide](https://spacejourney.app/ciudad/miami/) |
 
 ---
 
