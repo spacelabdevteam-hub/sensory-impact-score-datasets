@@ -47,4 +47,4 @@ Where:
 - **Model Context Protocol (MCP) Server:** [spacelabdevteam-hub/space-journey-mcp-engine](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine) (`https://space-journey-engine.spacelab-mcp.workers.dev/mcp`)
 - **The Sensory Atlas (3D WebGL Playable):** [spacelabdevteam-hub/the-sensory-atlas-prototype](https://github.com/spacelabdevteam-hub/the-sensory-atlas-prototype) ([Live Demo](https://spacejourney.app/play/roma-atlas/))
 - **Interactive Itinerary Planner:** [https://spacejourney.app/planificador-de-viajes/](https://spacejourney.app/planificador-de-viajes/)
-- **Sensory Earth 3D Globe (227 Countries):** [https://spacejourney.app/sensory-earth/](https://spacejourney.app/sensory-earth/)
+- **Sensory Earth 3D Globe (227 Countries):** [https://spacejourney.app/earth/](https://spacejourney.app/earth/)
