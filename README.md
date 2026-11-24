@@ -4,6 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spacelabdevteam-hub/sensory-impact-score-datasets/blob/main/explore_global_sensory_benchmark.ipynb)
 [![WHO Acoustic Guideline](https://img.shields.io/badge/WHO_Guideline-53_dB_Lden-006699)](https://spacejourney.app/standards/sensory-impact-score/)
 [![Hugging Face Organization](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-spacejourney-FFD21E)](https://huggingface.co/spacejourney)
+[![Space Journey MCP connector](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey)
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-10B981)](https://creativecommons.org/licenses/by/4.0/)
 
 > **Open-Access Acoustic (dB), Photic (lx), Topographic Elevation (ESA Copernicus DEM GLO-90), and Crowd-Density (pax/m²) Urban Benchmarks for Contemplative Human Mobility.**  
@@ -45,6 +46,7 @@ Where:
 
 - **Machine-Readable LLMs Manifest:** [https://spacejourney.app/llms.txt](https://spacejourney.app/llms.txt) & [llms-full.txt](https://spacejourney.app/llms-full.txt)
 - **Model Context Protocol (MCP) Server:** [spacelabdevteam-hub/space-journey-mcp-engine](https://github.com/spacelabdevteam-hub/space-journey-mcp-engine) (`https://space-journey-engine.spacelab-mcp.workers.dev/mcp`)
+- **Glama Verified MCP Connector:** [https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey](https://glama.ai/mcp/connectors/dev.workers.spacelab-mcp.space-journey-engine/space-journey)
 - **The Sensory Atlas (3D WebGL Playable):** [spacelabdevteam-hub/the-sensory-atlas-prototype](https://github.com/spacelabdevteam-hub/the-sensory-atlas-prototype) ([Live Demo](https://spacejourney.app/play/roma-atlas/))
 - **Interactive Itinerary Planner:** [https://spacejourney.app/planificador-de-viajes/](https://spacejourney.app/planificador-de-viajes/)
 - **Sensory Earth 3D Globe (227 Countries):** [https://spacejourney.app/earth/](https://spacejourney.app/earth/)
