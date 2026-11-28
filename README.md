@@ -16,15 +16,15 @@
 
 Each city benchmark includes verified `.csv` and `.json` datasets with **ESA Copernicus DEM GLO-90 satellite elevation**, relative relief, and the biomechanical exertion index ($P_{\text{exertion}}$):
 
-| City Benchmark | GitHub Folder | Hugging Face Dataset | Sanctuaries | Live City Guide |
-| :--- | :--- | :--- | :---: | :--- |
-| 🌐 **Global Benchmark (94 Sanctuaries)** | [data/global_sensory_benchmark_v3.csv](./data/global_sensory_benchmark_v3.csv) | [global-sensory-impact-benchmark](https://huggingface.co/datasets/spacejourney/global-sensory-impact-benchmark) | **94** | [SIS Standard](https://spacejourney.app/standards/sensory-impact-score/) |
-| 🇮🇹 **Rome, Italy** | [cities/01_rome/](./cities/01_rome/) | [rome-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/rome-sensory-impact-dataset) | **15** | [Rome Guide](https://spacejourney.app/ciudad/roma/) |
-| 🇫🇷 **Paris, France** | [cities/02_paris/](./cities/02_paris/) | [paris-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/paris-sensory-impact-dataset) | **15** | [Paris Guide](https://spacejourney.app/ciudad/paris/) |
-| 🇬🇧 **London, UK** | [cities/03_london/](./cities/03_london/) | [Space Journey HF Hub](https://huggingface.co/spacejourney) | **15** | [London Guide](https://spacejourney.app/ciudad/londres/) |
-| 🇲🇽 **Mexico City (CDMX)** | [cities/04_cdmx/](./cities/04_cdmx/) | [cdmx-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/cdmx-sensory-impact-dataset) | **15** | [CDMX Guide](https://spacejourney.app/ciudad/cdmx/) |
-| 🇺🇸 **New York City, USA** | [cities/05_new_york/](./cities/05_new_york/) | [Space Journey HF Hub](https://huggingface.co/spacejourney) | **17** | [New York Guide](https://spacejourney.app/ciudad/new-york/) |
-| 🇺🇸 **Miami, USA** | [cities/06_miami/](./cities/06_miami/) | [Space Journey HF Hub](https://huggingface.co/spacejourney) | **17** | [Miami Guide](https://spacejourney.app/ciudad/miami/) |
+| City Benchmark | GitHub Folder | Hugging Face Dataset | Colab Explorer | Sanctuaries | Live City Guide |
+| :--- | :--- | :--- | :---: | :---: | :--- |
+| 🌐 **Global Benchmark (94 Sanctuaries)** | [data/global_sensory_benchmark_v3.csv](./data/global_sensory_benchmark_v3.csv) | [global-sensory-impact-benchmark](https://huggingface.co/datasets/spacejourney/global-sensory-impact-benchmark) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spacelabdevteam-hub/sensory-impact-score-datasets/blob/main/explore_global_sensory_benchmark.ipynb) | **94** | [SIS Standard](https://spacejourney.app/standards/sensory-impact-score/) |
+| 🇮🇹 **Rome, Italy** | [cities/01_rome/](./cities/01_rome/) | [rome-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/rome-sensory-impact-dataset) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spacelabdevteam-hub/sensory-impact-score-datasets/blob/main/cities/01_rome/explore_rome_sensory_impact.ipynb) | **15** | [Rome Guide](https://spacejourney.app/ciudad/roma/) |
+| 🇫🇷 **Paris, France** | [cities/02_paris/](./cities/02_paris/) | [paris-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/paris-sensory-impact-dataset) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spacelabdevteam-hub/sensory-impact-score-datasets/blob/main/cities/02_paris/explore_paris_sensory_impact.ipynb) | **15** | [Paris Guide](https://spacejourney.app/en/city/paris-en/) |
+| 🇬🇧 **London, UK** | [cities/03_london/](./cities/03_london/) | [london-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/london-sensory-impact-dataset) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spacelabdevteam-hub/sensory-impact-score-datasets/blob/main/cities/03_london/explore_london_sensory_impact.ipynb) | **15** | [London Guide](https://spacejourney.app/en/city/london/) |
+| 🇲🇽 **Mexico City (CDMX)** | [cities/04_cdmx/](./cities/04_cdmx/) | [cdmx-sensory-impact-dataset](https://huggingface.co/datasets/spacejourney/cdmx-sensory-impact-dataset) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spacelabdevteam-hub/sensory-impact-score-datasets/blob/main/cities/03_cdmx/explore_cdmx_sensory_impact.ipynb) | **15** | [CDMX Guide](https://spacejourney.app/ciudad/cdmx/) |
+| 🇺🇸 **New York City, USA** | [cities/05_new_york/](./cities/05_new_york/) | [Space Journey HF Hub](https://huggingface.co/spacejourney) | — | **17** | [New York Guide](https://spacejourney.app/ciudad/new-york/) |
+| 🇺🇸 **Miami, USA** | [cities/06_miami/](./cities/06_miami/) | [Space Journey HF Hub](https://huggingface.co/spacejourney) | — | **17** | [Miami Guide](https://spacejourney.app/ciudad/miami/) |
 
 ---
 
